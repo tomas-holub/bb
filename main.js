@@ -1,1 +1,1 @@
-console.log('custom js works');
+console.log('custom js works nice');
